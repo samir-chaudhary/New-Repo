@@ -3,5 +3,6 @@ public class BasicJava{
         
         System.out.println("First program in java");
         System.out.println("Hello World i'm sanju");
+        System.out.println("Hello World i'm samir");
     }
 }
