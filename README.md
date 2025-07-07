@@ -13,4 +13,4 @@ step 10= git remote add origin "URL'
 step 11= git remote -v
 step 12= git branch
 step 13= git branch -M "name"
-step 14= git push -u origin main
+step 14= git push -u origin main -> in next file only used this command -> git push
